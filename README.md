@@ -3,4 +3,4 @@
 
 支持 `https://imx.com` 交易中的交易对
 
-[文档请查看](`https://github.com/imxapi/API_DOCS/wiki`)
+[文档请查看](https://github.com/imxapi/API_DOCS/wiki)
