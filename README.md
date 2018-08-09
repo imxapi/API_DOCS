@@ -6,4 +6,4 @@
 
 支持 `https://imx.com` 交易中的交易对
 
-[点击查看文档](https://github.com/imxapi/API_DOCS/wiki`)
+[点击查看文档](https://github.com/imxapi/API_DOCS/wiki)
